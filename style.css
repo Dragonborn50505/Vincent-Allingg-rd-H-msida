@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: space-between;
+  min-height: 100vh;
+  background-color: #99e1d9;
+}
+
+header,
+aside {
+  background-color: #5d576b;
+  width: 20%;
+}
+
+main {
+  width: 60%;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+.text_center {
+    display: flex;
+    justify-content: center;
+}
+
+.text_main{
+    display: flex;
+    justify-content: left;
+    padding-right: 60%;
+    padding-left: 10%;
+}
+
+.Ingredients{
+    padding-right: 60%;
+}
+
+.how_to_1{
+    display: flex;
+    justify-content: left;
+    padding-right: 60%;
+    padding-left: 10%;
+}
+
+.how_to_2{
+    padding-right: 60%;
+    padding-left: 5%;
+}

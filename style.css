@@ -4,20 +4,19 @@
 }
 
 header,
-
 aside {
   background-color: #5d576b;
   width: 20%;
   padding: 1%;
 }
 
-.new-header{
-    display: flex;
-    justify-content: center;
-    justify-content: space-between;
-    background-color: #9591a0;
-    padding-left: 20pc;
-    padding-right: 20pc;
+.new-header {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  background-color: #9591a0;
+  padding-left: 20pc;
+  padding-right: 20pc;
 }
 
 main {
@@ -30,8 +29,8 @@ a {
   text-decoration: none;
 }
 
-.header-links{
-    color: black;
+.header-links {
+  color: black;
 }
 
 footer {
@@ -49,6 +48,39 @@ footer {
 .list-headline {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #000000;
+}
+
+.home-page-img{
+  text-align: center;
+  
+}
+.home-img{
+  width: 80%;
+  border: 0.5pc solid #f7567c; 
+}
+
+.citronkaka{
+  border: 0.5pc solid #f7567c;
+  
+}
+
+.äppelpaj{
+  border: 0.5pc solid #f7567c;
+}
+.vitlökssmör{
+  border: 0.5pc solid #f7567c;
+}
+
+.plommonkaka{
+  border: 0.5pc solid #f7567c;
+}
+
+.raberbejpaj{
+  border: 0.5pc solid #f7567c;
+}
+
+.kokosbollar{
+  border: 0.5pc solid #f7567c;
 }
 
 .list {
@@ -96,7 +128,6 @@ footer {
   justify-content: center;
   padding-top: 2%;
   padding-bottom: 2%;
-
 }
 
 .recept-link-image {
@@ -114,9 +145,14 @@ footer {
 }
 
 .reklam {
-  width: 100%;
+display: flex;
+justify-content: center;
+  
+  
 }
-
+.Logo_test.jpg{
+  width: 100px;
+}
 .rubrik {
   display: flex;
   justify-content: center;
@@ -130,58 +166,63 @@ footer {
 
 .ingredients-form {
   padding-top: 5%;
-  
 }
 
-.tid-pragraf{
-    padding-left: 1pc;
+.tid-pragraf {
+  padding-left: 1pc;
 }
-.list_dif{
-    padding-left: 1pc;
-}
-
-.home{
-    padding-bottom:  1.5pc;
-    padding-top: 1pc;
-    padding-left: 1pc;
+.list_dif {
+  padding-left: 1pc;
 }
 
+.home {
+  padding-bottom: 1.5pc;
+  padding-top: 1pc;
+  padding-left: 1pc;
+}
 
 .checked {
-    color: orange;
-  }
-  
-.rating-home{
-    display: flex;
-    flex-wrap: wrap;
+  color: orange;
 }
 
-.news-artile--1{
-margin: 2pc;
-
+.rating-home {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.news-artile--1 p{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 3pc;
-
+.news-artile--1 {
+  margin: 2pc;
 }
 
-
-.artical-pic{
-    border: #9591a0 1pc solid;
-    width: 8pc;
-    height: 8pc;
+.news-artile--1 p {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3pc;
 }
 
-.artical-1{
-border: yellow 0.2pc solid;
-background-color: yellow;
-width: 12pc;
+.artical-pic {
+  border: #9591a0 1pc solid;
+  width: 8pc;
+  height: 8pc;
 }
 
-.artical-2{
-    background-color: yellow;
+.artical-1 {
+  border: #9591a0 0.2pc solid;
+  background-color: #9591a0;
+  width: 10pc;
+  margin-bottom: 10px;
 }
 
+.artical-2 {
+  border: #9591a0 0.2pc solid;
+  background-color: #9591a0;
+  width: 10pc;
+  margin-bottom: 10px;
+}
+
+.artical-3{
+  border: #9591a0 0.2pc solid;
+  background-color: #9591a0;
+  width: 10pc;
+  margin-bottom: 10px;
+}

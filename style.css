@@ -50,36 +50,34 @@ footer {
   color: #000000;
 }
 
-.home-page-img{
+.home-page-img {
   text-align: center;
-  
 }
-.home-img{
+.home-img {
   width: 80%;
-  border: 0.5pc solid #f7567c; 
-}
-
-.citronkaka{
-  border: 0.5pc solid #f7567c;
-  
-}
-
-.äppelpaj{
-  border: 0.5pc solid #f7567c;
-}
-.vitlökssmör{
   border: 0.5pc solid #f7567c;
 }
 
-.plommonkaka{
+.citronkaka {
   border: 0.5pc solid #f7567c;
 }
 
-.raberbejpaj{
+.äppelpaj {
+  border: 0.5pc solid #f7567c;
+}
+.vitlökssmör {
   border: 0.5pc solid #f7567c;
 }
 
-.kokosbollar{
+.plommonkaka {
+  border: 0.5pc solid #f7567c;
+}
+
+.raberbejpaj {
+  border: 0.5pc solid #f7567c;
+}
+
+.kokosbollar {
   border: 0.5pc solid #f7567c;
 }
 
@@ -123,6 +121,10 @@ footer {
   padding-top: 5%;
 }
 
+.logo-test {
+  width: 100%;
+}
+
 .home-page-img {
   display: flex;
   justify-content: center;
@@ -145,14 +147,9 @@ footer {
 }
 
 .reklam {
-display: flex;
-justify-content: center;
-  
-  
+  width: 100%;
 }
-.Logo_test.jpg{
-  width: 100px;
-}
+
 .rubrik {
   display: flex;
   justify-content: center;
@@ -220,7 +217,7 @@ justify-content: center;
   margin-bottom: 10px;
 }
 
-.artical-3{
+.artical-3 {
   border: #9591a0 0.2pc solid;
   background-color: #9591a0;
   width: 10pc;
